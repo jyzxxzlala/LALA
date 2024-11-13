@@ -4,7 +4,7 @@ import time
 
 
 def call_agent_app(prompt, api_key):
-    response = Application.call(app_id='',
+    response = Application.call(app_id='4cb6dde6dc8a4dd485c710a1525703dd',
                                 prompt=prompt,
                                 api_key=api_key)
 
