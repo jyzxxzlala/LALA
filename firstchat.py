@@ -25,7 +25,7 @@ def stream_output(text):
 
 
 def chatbot():
-    api_key = 'sk-35eeb2de4bad4e97916b15cec7c4dab9'  
+    api_key = ''  
     print("你好，我是你的智能助手。有问题请问我吧！（输入'再见'可以结束对话）")
     while True:
         user_input = input("你: ")
